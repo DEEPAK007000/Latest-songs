@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<atom:link href="http://www.10topsongs.com/rss.xml" rel="self" type="application/rss+xml" />
+  <title>HOME </title>
+  <link>http://www.10topsongs.com/</link>
+  <description>One place for every top 10 Hindi songs and English songs mp3 download. You will get top ten mp3 songs for free.</description>
+  <item>
+    <title>HINDI SONGS </title>
+    <link>http://www.10topsongs.com</link>
+    <description>One place for every top 10 Hindi songs and English songs mp3 download. You will get top ten mp3 songs for free. </description>
+  </item>
+   <item>
+    <title>ENGLISH SONGS </title>
+    <link>http://www.10topsongs.com</link>
+    <description>One place for every top 10 Hindi songs and English songs mp3 download. You will get top ten mp3 songs for free. </description>
+ </item>
+  <item>
+    <title>CONTACT US </title>
+    <link>http://www.10topsongs.com </link>
+    <description>One place for every top 10 Hindi songs and English songs mp3 download. You will get top ten mp3 songs for free.</description>
+  </item>
+  <item>
+  <title>SUBMIT </title>
+    <link>http://www.10topsongs.com </link>
+    <description>One place for every top 10 Hindi songs and English songs mp3 download. You will get top ten mp3 songs for free.</description>
+  </item>
+  <item>
+    <title>ABOUT US </title>
+    <link>http://www.10topsongs.com </link>
+<description>One place for every top 10 Hindi songs and English songs mp3 download. You will get top ten mp3 songs for free. </description>
+  </item>
+</channel>
+</rss>
